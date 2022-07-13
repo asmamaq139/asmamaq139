@@ -6,11 +6,8 @@
 - 📫 You can reach me at my email id: asmaumair139@gmail.com
 
 🛠️ My favorite tools
-👨‍💻 Programming  languages
- C# , CSS, Java, JavaScript, LaTeX, Python
+- 👨‍💻 Programming  languages: C# , CSS, Java, JavaScript, LaTeX, Python
 
-🧰 Frameworks and libraries
-Arduino, ASP.Net Core API, GitHub, Keras,  MVC, NumPy, Pandas, Scipy, Scikit-learn, Seaborn, TensorFlow, WPF (.Net)
+- 🧰 Frameworks and libraries: Arduino, ASP.Net Core API, GitHub, Keras,  MVC, NumPy, Pandas, Scipy, Scikit-learn, Seaborn, TensorFlow, WPF (.Net)
 
-💻 Software and tools
-Android Studio, Linux, Vmware, Jupyter Notebooks, Pycharm, Anaconda,  Postman, Visual Studio, SQL server, XAMP, MAMP
+- 💻 Software and tools: Android Studio, Linux, Vmware, Jupyter Notebooks, Pycharm, Anaconda,  Postman, Visual Studio, SQL server, XAMP, MAMP
