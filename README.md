@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Asma Maqsood
+- 👀 I’m interested in Machine Learning, Computer Vision and Data Science.
+- 🌱 I have completed my mphill degree in computer science from PUCIT, Lahore, Pakistan and achieve Gold medal.
+- 💞️ I’m looking to collaborate on Data Science projects related to machine learning and computer vision.
+- 📫 You can reach me at my email id: asmaumair139@gmail.com
